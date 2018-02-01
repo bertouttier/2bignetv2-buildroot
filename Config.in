@@ -1,0 +1,1 @@
+#source "$BR2_EXTERNAL_LACIE_PATH/package/qcom/lk/Config.in"
